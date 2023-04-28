@@ -26,4 +26,4 @@ python3 main.py
 
 
 ## Author :book:
-Roberto Palacios [Twitter](https://twitter.com/robpalacios11) | [GitHub](https://github.com/robpalacios1)
+Roberto Palacios [Linkedin](https://www.linkedin.com/in/robpalacios1/) |[Twitter](https://twitter.com/robpalacios11) | [GitHub](https://github.com/robpalacios1)
